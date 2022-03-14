@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dawtest.infinityfreeapp.com/retos/static/css/main.04179b6f.css",
+    "main.js": "/dawtest.infinityfreeapp.com/retos/static/js/main.605e9971.js",
+    "static/js/787.65e28c82.chunk.js": "/dawtest.infinityfreeapp.com/retos/static/js/787.65e28c82.chunk.js",
+    "static/media/logo.svg": "/dawtest.infinityfreeapp.com/retos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dawtest.infinityfreeapp.com/retos/index.html",
+    "main.04179b6f.css.map": "/dawtest.infinityfreeapp.com/retos/static/css/main.04179b6f.css.map",
+    "main.605e9971.js.map": "/dawtest.infinityfreeapp.com/retos/static/js/main.605e9971.js.map",
+    "787.65e28c82.chunk.js.map": "/dawtest.infinityfreeapp.com/retos/static/js/787.65e28c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.605e9971.js"
+  ]
+}
